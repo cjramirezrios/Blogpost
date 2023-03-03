@@ -1,3 +1,7 @@
 Hola, estoy practicando git para rendir el examen de certificacion
 
 Para ello debo repasar las clases de Fredy
+
+Parrafo temporal
+
+Parrafo ha borrar de forma temporal
