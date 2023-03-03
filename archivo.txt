@@ -1,1 +1,3 @@
-Hola, estoy practicando git el 3 de marzo del 2023
+Hola, estoy practicando git para rendir el examen de certificacion
+
+Para ello debo repasar las clases de Fredy
